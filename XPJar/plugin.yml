@@ -1,0 +1,9 @@
+name: XPJar
+main: zaurek.XPJar
+version: 0.1
+commands:
+   xpjar:
+      description: Fills GlassBottle with XP.
+      usage: /<command> [ammount]
+      permission:
+      permission-message: You don't have <permission>
