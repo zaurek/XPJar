@@ -1,11 +1,3 @@
-*.class
-
-
-*.jar
-
-*.war
-
-*.ear
 XPJar/bin
 XPJar/.classpath
 XPJar/.project
